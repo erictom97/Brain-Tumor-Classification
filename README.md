@@ -1,9 +1,11 @@
-# Brain-Tumour-Classification
+# Brain-Tumor-Classification
 
 This repository contains a notebook demonstrating the training of a ResNet-50 model on the Kaggle brain tumor dataset: [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection).
 
 The model underwent training for 7 epochs and achieved a training accuracy of 94%. Additionally, it was tested on random images downloaded from the internet. The following images illustrate the results:
 
-![Unknown-12](https://github.com/erictom97/Brain-Tumour-Classification/assets/40288848/97cbd9b8-385d-4ab7-8249-b36c48677050)
+![Unknown-15](https://github.com/erictom97/Brain-Tumor-Classification/assets/40288848/10a6877d-16a6-439a-8461-d0dbe83389ab)
 
-![Unknown-13](https://github.com/erictom97/Brain-Tumour-Classification/assets/40288848/e9d186e7-99f0-4e9c-9c4f-a061cb732c89)
+
+![Unknown-16](https://github.com/erictom97/Brain-Tumor-Classification/assets/40288848/ffffb24b-c245-40d6-b3bf-13e4dbe8e55b)
+
